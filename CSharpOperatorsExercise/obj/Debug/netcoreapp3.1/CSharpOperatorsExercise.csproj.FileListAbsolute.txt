@@ -1,0 +1,13 @@
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.exe
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.deps.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.runtimeconfig.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.runtimeconfig.dev.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.dll
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\bin\Debug\netcoreapp3.1\CSharpOperatorsExercise.pdb
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.csprojAssemblyReference.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.AssemblyInfo.cs
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.dll
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.pdb
+C:\Users\lynnp\OneDrive\Desktop\Repos\CSharpOperatorsExercise\CSharpOperatorsExercise\obj\Debug\netcoreapp3.1\CSharpOperatorsExercise.genruntimeconfig.cache
